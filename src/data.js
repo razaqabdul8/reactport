@@ -9,8 +9,8 @@ export default
     ],
         contactEmail:'razaqabdul8@gmail.com',
         resume: "./resume.zip",
-        abouttext: "Web Developer with a love of overall learning as much as possible and the resultant expanding of my computational knowledge as an integrated sect built upon my entire array of diverse knowledge. Highly innovative whenproblem-solving and taking on challenges. I have a constantly evolving knowledge-base in the domain of web development technologies involving HTML,CSS, Bootstrap, Javascript, and others. Communication with other team members is ahigh priority of mine as we share a common passion of creating dynamically engaging applications to better our human experience in the modern world.",
-        aboutImage:'./backgpic.jpeg',
+        abouttext: "Web Developer with a love of overall learning as much as possible and the resultant expanding of my computational knowledge as an integrated sect built upon my entire array of diverse knowledge. Highly innovative when problem-solving and taking on challenges. I have a constantly evolving knowledge-base in the domain of web development technologies involving HTML,CSS, Bootstrap, Javascript, and others. Communication with other team members is ahigh priority of mine as we share a common passion of creating dynamically engaging applications to better our human experience in the modern world.",
+        aboutImage:'./backgpic.jpg',
        ShowAboutImage:true,
  
        projects:[
