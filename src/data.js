@@ -19,14 +19,14 @@ export default
             title: 'Design A Date',
             service: 'A program to make dating easier',
             imageSrc: "./design.png",
-            url: 'https://christopherneill.github.io/GroupProject/'
+            url: ''
         },
         {
             id: 2,
             title: 'Find a Lost pet',
             service: 'microchip matcher',
             imageSrc: "./catsndogs.png",
-            url: 'https://polar-stream-66961.herokuapp.com/'
+            url: ''
         },
 
            {
@@ -34,14 +34,14 @@ export default
             title:'Password Generator', 
              service:'First use of javascript', 
              imageSrc:"./pass.png",
-             url:'https://christopherneill.github.io/javascript/'
+             url:'https://razaqabdul8.github.io/homework_3/'
             },
             {
                 id: 4,
-                title: 'Command line inteface',
+                title: 'Command line interface',
                 service: 'Node Program Development',
                 imageSrc: "./rmgen.png",
-                url: 'https://github.com/ChristopherNeill/clirmgen'
+                url: ''
             },
             { 
                 id: 5,
@@ -55,7 +55,7 @@ export default
                 title: 'Weather App',
                 service: 'Api implementation',
                 imageSrc: "./weather.png",
-                url: 'https://christopherneill.github.io/weatherapp2/'
+                url: 'https://razaqabdul8.github.io/homework_6/'
            }
 
                         
@@ -65,14 +65,14 @@ export default
         social: [
 
             {   name:'Github',
-                url:'https://github.com/ChristopherNeill/'},
+                url:'https://github.com/razaqabdul8'},
             {
                 name: 'Linkedin',
-                url: 'https://www.linkedin.com/in/christopher-searcy-8298b2197a'
+                url: 'www.linkedin.com/in/abdul-wahab-razaq-1b4770174'
             },
             {
                 name: 'Instagram',
-                url: 'https://www.instagram.com/itschrisneill/'
+                url: 'https://www.instagram.com/pashtunstallion/?hl=es'
             }
 
         ]
