@@ -3,13 +3,13 @@ export default
         
         name :'Abdul Razaq',
         headerTagline: [
-                        'I am Christopher Neill.',
+                        'I am Abdul Razaq.',
                         'a full stack web developer',
-                        'from Austin'
+                        'from Washington DC.'
     ],
-        contactEmail:'christopherneill2019@icloud.com',
+        contactEmail:'razaqabdul8@gmail.com',
         resume: "./resume.zip",
-        abouttext: "I am a well organized people person who is focused on excellent client support, program development, and complex problem solving. Passionate about helping others. Cultivate positive morale by coaching and encouraging others.",
+        abouttext: "Web Developer with a love of overall learning as much as possible and the resultant expanding of my computational knowledge as an integrated sect built upon my entire array of diverse knowledge. Highly innovative whenproblem-solving and taking on challenges. I have a constantly evolving knowledge-base in the domain of web development technologies involving HTML,CSS, Bootstrap, Javascript, and others. Communication with other team members is ahigh priority of mine as we share a common passion of creating dynamically engaging applications to better our human experience in the modern world.",
         aboutImage:'./backgpic.jpeg',
        ShowAboutImage:true,
  
