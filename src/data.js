@@ -16,10 +16,10 @@ export default
        projects:[
         {
             id: 1,
-            title: '',
-            service: '',
-            imageSrc: "./design.pn",
-            url: ''
+            title: 'SportsTravel',
+            service: 'Extensive use of multiple API"s,
+            imageSrc: "./design.png",
+            url: 'https://razaqabdul8.github.io/sports_travel/'
         },
         {
             id: 2,
