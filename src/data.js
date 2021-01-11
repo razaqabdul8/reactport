@@ -17,7 +17,7 @@ export default
         {
             id: 1,
             title: 'SportsTravel',
-            service: 'Extensive use of multiple API',
+            service: 'Extensive use of multiple APIs',
             imageSrc: "./design.png",
             url: 'https://razaqabdul8.github.io/sports_travel/'
         },
