@@ -16,16 +16,16 @@ export default
        projects:[
         {
             id: 1,
-            title: 'Design A Date',
-            service: 'A program to make dating easier',
-            imageSrc: "./design.png",
+            title: '',
+            service: '',
+            imageSrc: "./design.pn",
             url: ''
         },
         {
             id: 2,
-            title: 'Find a Lost pet',
-            service: 'microchip matcher',
-            imageSrc: "./catsndogs.png",
+            title: '',
+            service: '',
+            imageSrc: ".",
             url: ''
         },
 
@@ -41,7 +41,7 @@ export default
                 title: 'Command line interface',
                 service: 'Node Program Development',
                 imageSrc: "./rmgen.png",
-                url: ''
+                url: 'https://github.com/razaqabdul8/commandinterfacerazaq'
             },
             { 
                 id: 5,
