@@ -25,7 +25,7 @@ export default
             id: 2,
             title: 'Passive Income',
             service: 'Use of MySql, node.js, Express, and Handlebars',
-            imageSrc: "./catsanddogs.png",
+            imageSrc: "./catsanddoggs.png",
             url: 'https://still-island-50748.herokuapp.com/'
         },
 
