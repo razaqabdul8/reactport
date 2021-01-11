@@ -17,16 +17,16 @@ export default
         {
             id: 1,
             title: 'SportsTravel',
-            service: 'Extensive use of multiple API"s,
+            service: 'Extensive use of multiple API'
             imageSrc: "./design.png",
             url: 'https://razaqabdul8.github.io/sports_travel/'
         },
         {
             id: 2,
-            title: '',
-            service: '',
-            imageSrc: ".",
-            url: ''
+            title: 'Passive Income',
+            service: 'Use of MySql, node.js, Express, and Handlebars',
+            imageSrc: "./catsanddogs",
+            url: 'https://still-island-50748.herokuapp.com/'
         },
 
            {
